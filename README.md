@@ -1,7 +1,7 @@
 # WinForms-TicTacToe
 Tic Tac Toe using WinForms<br>
 Built using Visual Studio 2017 .NET 5<br>
-[Download Windows Executable](https://github.com/sourabhkv/WinForms-TicTacToe/blob/main/bin/Debug/Tictactoe.exe)<br>
+[Download Windows Executable](https://github.com/sourabhkv/WinForms-TicTacToe/releases/latest/download/Tictactoe.exe)<br>
 
 <p align="center">
 <img alt="python" src="https://user-images.githubusercontent.com/55890376/217774710-b4826d10-f427-4185-9b73-9c0e3e228ccf.png" >
