@@ -1,0 +1,8 @@
+c:\users\soura\documents\visual studio 2017\Projects\Tictactoe\Tictactoe\bin\Debug\Tictactoe.exe.config
+c:\users\soura\documents\visual studio 2017\Projects\Tictactoe\Tictactoe\bin\Debug\Tictactoe.exe
+c:\users\soura\documents\visual studio 2017\Projects\Tictactoe\Tictactoe\bin\Debug\Tictactoe.pdb
+c:\users\soura\documents\visual studio 2017\Projects\Tictactoe\Tictactoe\obj\Debug\Tictactoe.Form1.resources
+c:\users\soura\documents\visual studio 2017\Projects\Tictactoe\Tictactoe\obj\Debug\Tictactoe.Properties.Resources.resources
+c:\users\soura\documents\visual studio 2017\Projects\Tictactoe\Tictactoe\obj\Debug\Tictactoe.csproj.GenerateResource.Cache
+c:\users\soura\documents\visual studio 2017\Projects\Tictactoe\Tictactoe\obj\Debug\Tictactoe.exe
+c:\users\soura\documents\visual studio 2017\Projects\Tictactoe\Tictactoe\obj\Debug\Tictactoe.pdb
